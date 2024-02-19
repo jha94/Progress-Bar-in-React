@@ -1,0 +1,29 @@
+.commonStyle{
+    height: 20px;
+    border-radius: 10px;
+}
+
+.parentDivStyle{
+    width: 400px;
+    border: 1px solid grey;
+}
+
+.childDivStyle{
+    background-color: #70db70;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+p{
+    position: ;
+}
